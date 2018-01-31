@@ -8,13 +8,9 @@ package ec.edu.ister.vista;
 import ec.edu.ister.modelo.ListaEnlazada;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author HP
- */
 public class Aplicacion {
     public static void main(String[] args) {
          ListaEnlazada lista= new ListaEnlazada();
-    JOptionPane.showMessageDialog(null,"¿La lista esta vacia?  \n  "+lista.estaVacio());
+    JOptionPane.showMessageDialog(null,"¿LA LISTA ESTA VACIA?  \n  "+lista.estaVacio());
     }
 }
