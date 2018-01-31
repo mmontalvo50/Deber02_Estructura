@@ -5,10 +5,7 @@
  */
 package ec.edu.ister.modelo;
 
-/**
- *
- * @author HP
- */
+
 public class ListaEnlazada {
      Nodo cab;
      int size;
