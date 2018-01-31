@@ -5,10 +5,6 @@
  */
 package ec.edu.ister.modelo;
 
-/**
- *
- * @author HP
- */
 public class Nodo {
      Object valor;
     Nodo siguiente;
